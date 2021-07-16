@@ -17,7 +17,7 @@ Before we proceed.. if you wish to connect with me..
 <h2 align="left">Projects.</h2>
 <br>
 <a href="https://github.com/akanksha21singh/pythonHackerRank" target="_blank"><img align="center" style="padding-left:100px" src="https://github.com/akanksha21singh/Images/blob/main/python%20hackerrank.jpeg" display: "inline-block"
-  margin: "25px 10px" alt="https://github.com/akanksha21singh/pythonHackerRank"  height="200" width="5000" /><a href="https://github.com/akanksha21singh/pythonHackerRank" target="_blank" align="top" margin-left:"25px" >Hackerrank Solution for Python</a><br>This repository consist of</a>
+  margin: "25px 10px" alt="https://github.com/akanksha21singh/pythonHackerRank"  height="200" width="5000" /><a href="https://github.com/akanksha21singh/pythonHackerRank" target="_blank" align="top" margin-left:"25px" >Hackerrank Solution for Python</a><br>This repository consist of codes for python series on HackerRank. It's a great series with problems ranging from beginner to advance solved by me.</a>
 
 
 

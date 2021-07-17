@@ -24,7 +24,9 @@ Before we proceed.. if you wish to connect with me..
 <h2 align="left">Achievements.</h2>
 <p> 🚀 Won IoT Hackathon 2k19 Organised by Robert Bosch India. <br>
         Built a Brain Computer Interface(BCI) by which you can control and do day to day activities(like switching on/off fan, buzzing alarm, etc.) using your brain. 
-  2021-06-03_12h53_59.png![2021-06-03_12h53_59](https://user-images.githubusercontent.com/27111906/126028635-f7616f1a-67e1-4667-9810-b577333d638f.png)
+  <a target="_blank"><img align="center" src="https://github.com/akanksha21singh/Images/blob/main/2021-06-03_12h53_59.png" display: "inline-block"
+  margin: "25px 10px" alt="https://github.com/akanksha21singh/pythonHackerRank"  height="200" width="5000" /></a>
+  
 
 </p>
 

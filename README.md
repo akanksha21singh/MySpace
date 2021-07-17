@@ -51,6 +51,35 @@ src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" disp
  <p> 🚀 Earned Silver Badge(4 ⭐) in SQL on Hackerank. <br></p>
 <a target="_blank"><img src="https://github.com/akanksha21singh/Images/blob/main/Screenshot%202021-07-17%20at%2012.54.05%20PM.png" style="margin-left: 2.5em" padding:" 0 7em 2em 0" align:"center" display: "inline-block" height="200" width="300"/>
 <p/>
+  <br>
+  
+  <h2 align="left">Core Competencies.</h2><br>
+  
+   🧑‍💻 Languages: <li>  Python - My native language in IT - Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib</li>
+    <li> Pyspark </li> 
+    <li> C</li>
+    <li> SQL</li><br>
+  🧑‍💻 Cloud Service - Amazon Web Services(AWS): <li>  Athena </li>
+    <li> S3 </li>
+    <li> AWS Glue</li>
+    <li> Lambda</li>
+     <li> EC2 </li>
+    <li> CloudWatch</li><br>
+  🧑‍💻 Tools and Platforms <li>  MSQL</li>
+    <li> Gitlab CI </li>
+    <li> Jenkins</li>
+    <li> Oracle</li>
+     <li> Git </li>
+    <li> Tortoise Git</li>
+      <li> Anaconda</li>
+     <li> MS Excel</li><br>
+  🧑‍💻 IDEs 
+    <li> Visual Studio Code</li>
+    <li> Intellij</li>
+    <li> Eclipse</li>
+      <li> Notpad++</li>
+   
+    
 
 
 

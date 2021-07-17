@@ -1,7 +1,7 @@
 # myPortfolio
 
 Hello enthusiast! 🖐️
-Welcome to my space.This Portfolio is a compilation of all the projects and learnings I did as part of my academics, self-learning and projects made out of curiosities.Apart from this, the portfolio also contains my Achievements, skills, and certificatations. I update this regularly! 
+Welcome to my space.This Portfolio is a compilation of all the projects and learnings I did as part of my academics, self-learning and projects made out of curiosities.Apart from this, the portfolio also contains my Achievements, skills, and certifications. I update this regularly! 
 
 Happy learning. 🏹
 

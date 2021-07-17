@@ -65,8 +65,12 @@ src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" disp
     <li> Lambda</li>
      <li> EC2 </li>
     <li> CloudWatch</li><br>
-  🧑‍💻 Tools and Platforms <li>  MSQL</li>
+  🧑‍💻 Tools and Technologies<li>  MSQL</li>
     <li> Gitlab CI </li>
+    <li> Docker </li>
+    <li> CloudFormation </li>
+    <li> Data pipeline </li>
+    <li> CI/CD </li>
     <li> Jenkins</li>
     <li> Oracle</li>
      <li> Git </li>
@@ -80,14 +84,14 @@ src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" disp
       <li> Notpad++</li>
    
   
-   <h2 align="left">CERTIFICATIONS.</h2><br>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/AWS%20fundamentals.pdf" target="_blank">AWS Fundamentals : Going Cloud Native</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/DataStructure.pdf" target="_blank">Mastering Data Structure and Algorithm</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/Docker.pdf" target="_blank">Docker</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/EEssentials%20in%20AI.pdf" target="_blank">Essentials in AI</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/GIT.pdf" target="_blank">GIT</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/IoT%20certificate.pdf" target="_blank">Introduction to IoT</a>
-  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/Python%20and%20Django.pdf" target="_blank">Python and Django</a>
+   <h2 align="left">CERTIFICATIONS.</h2>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/AWS%20fundamentals.pdf" target="_blank">AWS Fundamentals : Going Cloud Native</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/DataStructure.pdf" target="_blank">Mastering Data Structure and Algorithm</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/Docker.pdf" target="_blank">Docker</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/EEssentials%20in%20AI.pdf" target="_blank">Essentials in AI</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/GIT.pdf" target="_blank">GIT</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/IoT%20certificate.pdf" target="_blank">Introduction to IoT</a><br>
+  💠 <a href="https://github.com/akanksha21singh/Images/blob/main/Python%20and%20Django.pdf" target="_blank">Python and Django</a><br>
 
 
 

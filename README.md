@@ -93,7 +93,19 @@ src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" disp
   💠 <a href="https://github.com/akanksha21singh/Images/blob/main/IoT%20certificate.pdf" target="_blank">Introduction to IoT</a><br>
   💠 <a href="https://github.com/akanksha21singh/Images/blob/main/Python%20and%20Django.pdf" target="_blank">Python and Django</a><br>
 
-
+  <h2 align="left">WHO I AM, WHEN AWAY FROM TECH?</h2>
+   🌻 I am an ambivert filled with positivity and enthusiasm. 
+   🌻 To greet people I take aid of smile. 
+   🌻 I like to bake cakes.
+   🌻 I like watch animes and I find them an instant mood changer.
+   🌻 I can speak, read and write French. 
+   🌻 Do not get shocked because one day you will see me travelling the world. 
+   
+  
+  
+    
+   
+  
 
 
 

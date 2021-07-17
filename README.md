@@ -23,7 +23,7 @@ Before we proceed.. if you wish to connect with me..
  <br>
  <br>
 <a href="https://github.com/akanksha21singh/hackerRankSQL" target="_blank"><img align="center" 
-src="https://github.com/akanksha21singh/Images/blob/main/SQL.jpeg" display: "inline-block" 
+src="https://github.com/akanksha21singh/Images/blob/main/sql-illustration.png" display: "inline-block" 
   margin: "25px 10px" alt="https://github.com/akanksha21singh/hackerRankSQL"  height="200" width="5000" /><a href="https://github.com/akanksha21singh/hackerRankSQL" target="_blank" align="top" margin-left:"25px" > 🚀 Hackerrank Solution for SQL</a><br>This repository consist of codes for SQL series on HackerRank.I am currently 4⭐ (Silver badge) on hackerrank in SQL. </a>
     
 <br>

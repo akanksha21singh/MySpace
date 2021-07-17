@@ -25,20 +25,28 @@ Before we proceed.. if you wish to connect with me..
 <a href="https://github.com/akanksha21singh/hackerRankSQL" target="_blank"><img align="center" 
 src="https://github.com/akanksha21singh/Images/blob/main/sql-illustration.png" display: "inline-block" 
   margin: "25px 10px" alt="https://github.com/akanksha21singh/hackerRankSQL"  height="200" width="5000" /><a href="https://github.com/akanksha21singh/hackerRankSQL" target="_blank" align="top" margin-left:"25px" > 🚀 Hackerrank Solution for SQL</a><br>This repository consist of codes for SQL series on HackerRank.I am currently 4⭐ (Silver badge) on hackerrank in SQL. </a>
+  
+   <br>
+ <br>
+<a href="https://github.com/akanksha21singh/mycalculator" target="_blank"><img align="center" 
+src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" display: "inline-block" 
+  margin: "25px 10px" alt="https://github.com/akanksha21singh/mycalculator"  height="300" width="5000" /><a href="https://github.com/akanksha21singh/mycalculator" target="_blank" align="top" margin-left:"25px" > <br>🚀 Calculator</a><br>A simple calculator built in javascript that can perform basic mathematical tasks. </a>
+
     
 <br>
 
 <h2 align="left">ACHIEVEMENTS.</h2>
 <br>
 <p> 🚀 Won IoT Hackathon 2k19 Organised by Robert Bosch India. <br></p>
-<p style="margin-left: 2.5em" padding:" 0 7em 2em 0">
         Built a Brain Computer Interface(BCI) by which you can control and do day to day activities(like switching on/off fan, buzzing alarm, etc.) using your brain. 
   <a target="_blank"><img src="https://github.com/akanksha21singh/Images/blob/main/2021-06-03_12h53_59.png" style="margin-left: 2.5em" padding:" 0 7em 2em 0" align:"center" display: "inline-block"
-  margin: "25px 10px" alt="https://github.com/akanksha21singh/pythonHackerRank"  height="200" width="300" /></a><br><BR>
+  margin: "25px 10px" alt="https://github.com/akanksha21singh/pythonHackerRank"  height="200" width="300" /></a><br><br>
   
 <p> 🚀 Earned Golden Badge(5 ⭐) in python on Hackerank. <br></p>
 <a target="_blank"><img src="https://github.com/akanksha21singh/Images/blob/main/Screenshot%202021-07-17%20at%2012.48.44%20PM.png" style="margin-left: 2.5em" padding:" 0 7em 2em 0" align:"center" display: "inline-block" height="200" width="300"/><br>
 <p/>
+ 
+
  
  <p> 🚀 Earned Silver Badge(4 ⭐) in SQL on Hackerank. <br></p>
 <a target="_blank"><img src="https://github.com/akanksha21singh/Images/blob/main/Screenshot%202021-07-17%20at%2012.54.05%20PM.png" style="margin-left: 2.5em" padding:" 0 7em 2em 0" align:"center" display: "inline-block" height="200" width="300"/>

@@ -97,7 +97,7 @@ src="https://github.com/akanksha21singh/mycalculator/blob/master/image.png" disp
    🌻 I am an ambivert filled with positivity and enthusiasm. <br>
    🌻 To greet people I take aid of smile. <br>
    🌻 I like to bake cakes. <br>
-   🌻 I like watch animes and I find them an instant mood changer.<br>
+   🌻 I watch animes and I find them an instant mood changer.<br>
    🌻 I can speak, read and write French. <br>
    🌻 Do not get shocked because one day you will see me travelling the world. <br>
    
